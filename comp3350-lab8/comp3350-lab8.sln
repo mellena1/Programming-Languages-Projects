@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comp3350-lab8", "comp3350-lab8\comp3350-lab8.csproj", "{4454E606-3A20-42B8-92EE-AD355250BD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4454E606-3A20-42B8-92EE-AD355250BD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4454E606-3A20-42B8-92EE-AD355250BD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4454E606-3A20-42B8-92EE-AD355250BD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4454E606-3A20-42B8-92EE-AD355250BD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

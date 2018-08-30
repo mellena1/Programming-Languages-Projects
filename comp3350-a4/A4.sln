@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "A4", "A4\A4.fsproj", "{4A144550-0473-41E0-8DCC-D8F5E2B3166B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "A4.Tests", "A4.Tests\A4.Tests.fsproj", "{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A144550-0473-41E0-8DCC-D8F5E2B3166B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A144550-0473-41E0-8DCC-D8F5E2B3166B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A144550-0473-41E0-8DCC-D8F5E2B3166B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A144550-0473-41E0-8DCC-D8F5E2B3166B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6499A33E-19C3-411A-A627-B4F61D103054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6499A33E-19C3-411A-A627-B4F61D103054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6499A33E-19C3-411A-A627-B4F61D103054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6499A33E-19C3-411A-A627-B4F61D103054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Debug|x64.ActiveCfg = Debug|x64
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Debug|x64.Build.0 = Debug|x64
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Debug|x86.ActiveCfg = Debug|x86
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Debug|x86.Build.0 = Debug|x86
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Release|x64.ActiveCfg = Release|x64
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Release|x64.Build.0 = Release|x64
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Release|x86.ActiveCfg = Release|x86
+		{7CD8C33F-1BF3-41B8-8F87-EE532073DDDE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
